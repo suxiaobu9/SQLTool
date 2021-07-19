@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlTool", "MsSqlTool\MsSqlTool.csproj", "{A22BC0F6-C32F-48C1-8270-D8BE4DFEDC3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlTool.Test", "MsSqlTool.Test\MsSqlTool.Test.csproj", "{69F0AE50-AA01-4529-BF71-A988C4F1B5A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22BC0F6-C32F-48C1-8270-D8BE4DFEDC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22BC0F6-C32F-48C1-8270-D8BE4DFEDC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22BC0F6-C32F-48C1-8270-D8BE4DFEDC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22BC0F6-C32F-48C1-8270-D8BE4DFEDC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F0AE50-AA01-4529-BF71-A988C4F1B5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F0AE50-AA01-4529-BF71-A988C4F1B5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F0AE50-AA01-4529-BF71-A988C4F1B5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F0AE50-AA01-4529-BF71-A988C4F1B5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD72CCE-8490-4136-98A4-A8D676BCF9A4}
+	EndGlobalSection
+EndGlobal
